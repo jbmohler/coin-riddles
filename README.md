@@ -1,4 +1,4 @@
-== Introduction
+## Introduction
 
 Q: "5 coins for 32 cents"
 
